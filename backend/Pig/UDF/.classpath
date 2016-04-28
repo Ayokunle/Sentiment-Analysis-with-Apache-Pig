@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/usr/local/pig/pig-0.15.0/pig-0.15.0-core-h1.jar"/>
+	<classpathentry kind="lib" path="/usr/local/pig/pig-0.15.0/pig-0.15.0-core-h2.jar"/>
+	<classpathentry kind="lib" path="/usr/local/hadoop/share/hadoop/common/hadoop-common-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/ayokunle/ctech_spark/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/ayokunle/ctech_spark/UDF/xpresso-0.1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
