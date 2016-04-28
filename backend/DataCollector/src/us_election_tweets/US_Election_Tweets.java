@@ -28,10 +28,10 @@ public class US_Election_Tweets {
         ConfigurationBuilder [] cb = new ConfigurationBuilder[1];
         cb[0] = new ConfigurationBuilder();
         
-        cb[0].setOAuthConsumerKey("yEMITwpCwv68CN9UX1MFDQ6DY");
-        cb[0].setOAuthConsumerSecret("4SDe7ZUB7q2qcBy5e1S6VgRV3XgPiCamrBqemqSAgCZXCACYoi");
-        cb[0].setOAuthAccessToken("55585930-km397Tdgag3tvf3PpVbuzbZyQf36SVPjnjNx92OJh");
-        cb[0].setOAuthAccessTokenSecret("4M2QtIRad6vRXsCU2XS3RutmbvaoLM9lwraP6PdzqADjK");
+        cb[0].setOAuthConsumerKey("");
+        cb[0].setOAuthConsumerSecret("");
+        cb[0].setOAuthAccessToken("");
+        cb[0].setOAuthAccessTokenSecret("");
         cb[0].setJSONStoreEnabled(true);
         
         Twitter twitter;  
